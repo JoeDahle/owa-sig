@@ -12,7 +12,9 @@ class App extends Component {
       <div className="App">
         <div className="container">
           <div className="content">
-            <img className="logo" src={logo} alt="The List Logo" />
+            <a href="https://thelisttv.com">
+              <img className="logo" src={logo} alt="The List Logo" />
+            </a>
             <div className="desc">
               <p className="name">Joe</p>
               <p>IT Operations</p>
