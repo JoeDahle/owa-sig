@@ -1,79 +1,44 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-#background {
-  left: 0px;
-  top: 0px;
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  width: 495px;
-  height: 200px;
-  overflow: hidden;
-  z-index: 0;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
 }
 
-#TheListLogo100x100 {
-  left: 40px;
-  top: 31px;
-  position: absolute;
-  width: 100px;
-  height: 100px;
-  z-index: 1;
+* {
+  line-height: 1em;
+  font-family: Cambria;
 }
 
-#facebook {
-  left: 40px;
-  top: 145px;
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  z-index: 2;
+.container {
+  display: inline-block;
 }
 
-#instagram {
-  left: 65px;
-  top: 145px;
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  z-index: 3;
+.logo {
+  display: inline-block;
+  margin: 0 15px 0 0;
 }
 
-#twitter {
-  left: 90px;
-  top: 145px;
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  z-index: 4;
+.content,
+.desc {
+  display: inline-block;
+  padding: 0;
+  margin-bottom: -20px;
 }
 
-#youtube {
-  left: 116px;
-  top: 145px;
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  z-index: 5;
+.desc {
+  font-weight: 400;
+  margin-bottom: 5px;
 }
 
-#JessieJacobsVizRTArt {
-  left: 165px;
-  top: 42px;
-  position: absolute;
-  width: 264px;
-  height: 83px;
-  z-index: 6;
-}
-
-#Shape1 {
-  left: 36px;
-  top: 136px;
-  position: absolute;
-  width: 421px;
-  height: 3px;
-  z-index: 7;
+.desc > .name {
+  font-weight: bold;
 }
