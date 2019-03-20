@@ -24,16 +24,16 @@ class App extends Component {
           </div>
           <hr />
           <div className="social">
-            <a href="https://facebook.com">
+            <a href="https://www.facebook.com/thelistshowtv/">
               <img src={fb} alt="facebook" />
             </a>
-            <a href="https://twitter.com">
+            <a href="https://www.instagram.com/thelistshowtv/">
               <img src={ig} alt="instagram" />
             </a>
-            <a href="https://twitter.com">
+            <a href="https://twitter.com/TheListShowTV">
               <img src={tw} alt="twitter" />
             </a>
-            <a href="https://twitter.com">
+            <a href="https://www.youtube.com/user/TheListShowTV">
               <img src={yt} alt="youtube" />
             </a>
           </div>
