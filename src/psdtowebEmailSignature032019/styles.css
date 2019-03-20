@@ -1,0 +1,87 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 495px;
+	 height: 200px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #TheListLogo100x100 
+{ 
+	 left: 40px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 100px;
+	 z-index:1;
+} 
+
+ #facebook 
+{ 
+	 left: 40px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:2;
+} 
+
+ #instagram 
+{ 
+	 left: 65px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:3;
+} 
+
+ #twitter 
+{ 
+	 left: 90px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:4;
+} 
+
+ #youtube 
+{ 
+	 left: 116px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:5;
+} 
+
+ #JessieJacobsVizRTArt 
+{ 
+	 left: 165px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 83px;
+	 z-index:6;
+} 
+
+ #Shape1 
+{ 
+	 left: 36px; 
+	 top: 136px; 
+	 position: absolute; 
+	 width: 421px;
+	 height: 3px;
+	 z-index:7;
+} 
