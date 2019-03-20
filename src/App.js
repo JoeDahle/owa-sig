@@ -21,7 +21,7 @@ class App extends Component {
               <p>
                 <a href="mailto:joe@email.com">joe@email.com</a>
               </p>
-              <p>Office: 608.914.3240 | Cell: 480.431.7659</p>
+              <p>Office: 000.000.0000 | Cell: 000.000.0000</p>
             </div>
           </div>
           <hr />
