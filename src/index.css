@@ -16,7 +16,7 @@
 }
 
 .desc {
-  font-weight: 400;
+  /* font-weight: 400; */
   margin-bottom: 5px;
 }
 
@@ -30,4 +30,8 @@
 
 .social > a:not(:last-child) {
   padding-right: 5px;
+}
+
+p {
+  margin: 0;
 }
